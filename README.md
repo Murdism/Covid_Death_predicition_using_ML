@@ -4,3 +4,4 @@ In this project, real covid related data was used to predict the number of death
 As predictors, the number covid postive people, number of people in hospitals and other factors were used.
 
 ## More inforamtion
+Ok now this is just for trial
